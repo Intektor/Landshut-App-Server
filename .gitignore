@@ -1,2 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 /.gradle/
+/.idea/
+/log.txt
+/version.txt
+/log.txt.lck
